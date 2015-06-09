@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">App_Portfolio</string>
+
+    <string name="appTitle">Nanodegree App Portfolio</string>
+
+    <string name="app1">Spotify Streamer</string>
+    <string name="app2">Scores</string>
+    <string name="app3">Library</string>
+    <string name="app4">Build It Bigger</string>
+    <string name="app5">XYZ Reader</string>
+    <string name="app6">Capstone</string>
+
+
+
+    <string name="app1_message">This button will access the Spotify Streamer App.</string>
+    <string name="app2_message">This button will access the Scores App.</string>
+    <string name="app3_message">This button will access the Library App.</string>
+    <string name="app4_message">This button will access the Build It Bigger App.</string>
+    <string name="app5_message">This button will access the XYZ Reader App.</string>
+    <string name="app6_message">This button will access the Capstone Project.</string>
+
+
+
+
+</resources>
